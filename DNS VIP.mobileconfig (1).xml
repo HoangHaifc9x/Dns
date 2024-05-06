@@ -66,13 +66,13 @@
 <key>PayloadDisplayName</key>
 <string>Chặn thu hồi ( Không chặn ADS ) ✅</string>
 <key>PayloadIdentifier</key>
-<string>thaydungmodgame.bio.link.profile</string>
+<string>hoanghaifc9x.bio.link.profile</string>
 <key>PayloadOrganization</key>
 <string>Blocking Cert Revocation No Block Ads</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>thaydung.bio.link</string>
+<string>hoanghaifc9x.bio.link</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
@@ -80,15 +80,15 @@
 <key>PayloadDescription</key>
 <string>Bug fix</string>
 <key>PayloadDisplayName</key>
-<string>DNS THAYDUNG</string>
+<string>DNS Mr.Khói</string>
 <key>PayloadIdentifier</key>
-<string>THAYDUNGdvn.cloudflare.warp.com.profile</string>
+<string>hoanghaifc9x.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
 <string>User</string>
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
-<string>THAYDUNG.cloudflare-gateway.com.dnsSettings.managed</string>
+<string>hoanghaifc9x.cloudflare-gateway.com.dnsSettings.managed</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
